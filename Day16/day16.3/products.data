@@ -1,0 +1,2 @@
+Product [id=30, name=rice, productCatgeory=GRAINS, manufactureDate=2019-01-13, price=520.0]
+Product [id=35, name=wheat, productCatgeory=GRAINS, manufactureDate=2018-07-11, price=700.0]
